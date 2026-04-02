@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Inversiones/static/js/main.716a5baa.js",
+    "main.js": "/Inversiones/static/js/main.dd0726db.js",
     "index.html": "/Inversiones/index.html",
-    "main.716a5baa.js.map": "/Inversiones/static/js/main.716a5baa.js.map"
+    "main.dd0726db.js.map": "/Inversiones/static/js/main.dd0726db.js.map"
   },
   "entrypoints": [
-    "static/js/main.716a5baa.js"
+    "static/js/main.dd0726db.js"
   ]
 }
